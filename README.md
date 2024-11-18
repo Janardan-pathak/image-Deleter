@@ -26,19 +26,17 @@ The **Image Filter App** lets you browse through a folder of images, review them
 
 ## Installation 💻
 
-<!--- TODO: add repo link here  -->
-
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/ss/gui-calculator.git
+   git clone https://github.com/Janardan-pathak/image-Deleter.git
 
    ```
 
 2. Navigate to the project folder:
 
    ```bash
-   cd gui-calculator
+   cd image-Deleter/bin
 
    ```
 
